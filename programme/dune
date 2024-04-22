@@ -1,0 +1,3 @@
+(executable
+   (name deux_d)
+   (libraries graphics unix camlimages.core camlimages.graphics))

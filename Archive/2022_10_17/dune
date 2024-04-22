@@ -1,0 +1,3 @@
+(executable
+   (name Plus_cour_chemin_graphe1)
+   (libraries graphics unix camlimages.core camlimages.graphics))
