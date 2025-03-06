@@ -5,7 +5,7 @@
   - Un algorithme continu de simulation dans un espace 2D vu du dessus
 ## Mise en route 
   Ce sont tout deux des codes Ocaml, dune a été utilisé pour compiler le code.
-  Si `dune` n'est pas déjà installé :
+  Si `opam` et/ou `dune` n'est pas déjà installé :
   ```
   sudo apt install opam
   opam install dune
